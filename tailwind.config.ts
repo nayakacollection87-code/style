@@ -48,6 +48,11 @@ const config: Config = {
           purple: "#A855F7",
           pink: "#EC4899",
         },
+        dark: {
+          DEFAULT: "#0a0a0f",
+          card: "#111118",
+          lighter: "#1a1a24",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
